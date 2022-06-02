@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [my website](https://appxpy.com)
+- 🔭 I’m currently working on [creating my portfolio website](https://appxpy.com)
 
 - 👨‍💻 All of my projects are available at [https://appxpy.com/projects/](https://appxpy.com/projects/)
 
