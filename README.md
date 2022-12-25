@@ -1,14 +1,7 @@
 # 💫About Me :
-- 🔭 I’m currently working on [creating my portfolio website](https://appxpy.com)
+- 🔭 I’m currently working on [my portfolio website](https://appxpy.com)
 
 - 👨‍💻 All of my projects are available at [https://appxpy.com/projects/](https://appxpy.com/projects/)
-
-- 💬 Ask me about **python, Django, Docker and docker-compose**
-
-- 📫 How to reach me **appxpy@appxpy.com**
-
-- 📄 Know about my experiences [https://appxpy.com/cv?download](https://appxpy.com/cv?download)
-
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/appxpy#0234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/appxpy) 
