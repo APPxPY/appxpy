@@ -7,7 +7,7 @@ I am a dedicated and passionate student of the National Research University High
 - Speech2TextBot - Speech recognition in Telegram.
 - .engage - Online education-recruiting platform for students. In development :)
 
-🔭 Current Focus
+## 🔭 Current Focus
 I am currently working on improving my skills in the following areas:
 
 - Information Security
